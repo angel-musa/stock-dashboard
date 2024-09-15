@@ -1,0 +1,9 @@
+activate
+activate.bat
+Activate.ps1
+deactivate.bat
+pip.exe
+pip3.11.exe
+pip3.exe
+python.exe
+pythonw.exe
