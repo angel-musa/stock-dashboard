@@ -7,3 +7,10 @@ pip3.11.exe
 pip3.exe
 python.exe
 pythonw.exe
+git init
+
+*.exe
+
+pwiz.py
+
+__pycache__/

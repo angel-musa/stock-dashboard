@@ -1,0 +1,14 @@
+yfinance
+pandas
+numpy
+matplotlib
+seaborn
+tensorflow
+keras
+scikit-learn
+xgboost
+optuna
+statsmodels
+plotly
+pandas-ta
+streamlit
